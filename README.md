@@ -109,10 +109,12 @@ Box plot showing salary distribution across different job categories.
 Bar chart representing average salaries based on job categories.
 
 ## References
-1. Data Science 2023 Review: Trends and Salary Expectations
-2. Data Science & AI Professionals Salary and Hiring Trends
-3. Salary Trends: What to Expect in Data & Analytics Roles in 2024
-4. Trends in Data Science Salaries: An Exploratory Data Analysis Journey
-5. EDA and Visualizations on Data Science Salaries using Python
-6. A. Kaur, D. Verma, and N. Kaur, "Utilizing Quantitative Data Science Salary Analysis to Predict Job Salaries," 2022 2nd International Conference on Innovative Sustainable Computational Technologies (CISCT), 2022
-7. Tee, Zhen & Raheem, Mafas. (2022). Salary Prediction in Data Science Field Using Specialized Skills and Job Benefits - A Literature Review.
+## References
+
+1. [Data Science 2023 Review: Trends and Salary Expectations](https://www.smithhanley.com/2023/12/05/data-science-2023/)
+2. [Data Science & AI Professionals Salary and Hiring Trends](https://www.burtchworks.com/industry-insights/new-report-data-science-ai-professionals-salary-and-hiring-trends)
+3. [Salary Trends: What to Expect in Data & Analytics Roles in 2024](https://www.linkedin.com/pulse/salary-trends-what-expect-data-analytics-roles-2024-douglas-robertson/)
+4. [Trends in Data Science Salaries: An Exploratory Data Analysis Journey](https://medium.com/@ry4ntr1/trends-in-data-science-salaries-an-exploratory-data-analysis-journey-9b70b75be48e)
+5. [EDA and Visualizations on Data Science Salaries using Python](https://www.linkedin.com/pulse/eda-visualizations-data-science-salaries-using-python-krishnamohan/)
+6. A. Kaur, D. Verma, and N. Kaur, "Utilizing Quantitative Data Science Salary Analysis to Predict Job Salaries," 2022 2nd International Conference on Innovative Sustainable Computational Technologies (CISCT), Dehradun, India, 2022, pp. 1-4. [IEEE](https://ieeexplore.ieee.org/document/10046491)
+7. Tee, Zhen & Raheem, Mafas. (2022). Salary Prediction in Data Science Field Using Specialized Skills and Job Benefits - A Literature Review. [ResearchGate](https://www.researchgate.net/publication/362280362_Salary_Prediction_in_Data_Science_Field_Using_Specialized_Skills_and_Job_Benefits_-A_Literature_Review)
