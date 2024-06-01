@@ -19,7 +19,7 @@ This project visualizes data science salary trends using the Kaggle dataset. By 
 This project aims to analyze and visualize data science salary trends using a dataset from Kaggle. The dataset includes job titles, salaries, years of experience, and geographic data, providing comprehensive insights into the salary trends for data science professionals.
 
 ## Workflow Diagram
-![Workflow Diagram](Images/Workflow.jpg)
+<img src="Images/Workflow.jpg" alt="Workflow Diagram" style="width: 80%;">
 
 The workflow diagram illustrates the steps taken in our project, starting from data acquisition to preprocessing, analysis, visualization, and reporting. The data was obtained from Kaggle, cleaned, and prepared for detailed exploratory data analysis (EDA).
 
@@ -54,38 +54,60 @@ The main actions performed in this project include data acquisition, preprocessi
 ## Visualization Graphs
 
 ### 1. Salary Distribution by Job Title
+<img src="Images/1.png" alt="Salary Distribution by Job Title" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
+
 Box plot representing salary distribution for various job titles.
-![1](Images/1.png)
+
 ### 2. Salary Distribution by Experience Level
+<img src="Images/2.png" alt="Salary Distribution by Experience Level" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
+
 Box plot showing salary distribution across different experience levels.
-![2](Images/2.png)
+
 ### 3. Salary Trends Over Years
+<img src="Images/3.png" alt="Salary Trends Over Years" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
+
 Line plot demonstrating the upward trend in average salaries over the years.
-![3](Images/3.png)
+
 ### 4. Histogram of Salary Distributions
+<img src="Images/4.png" alt="Histogram of Salary Distributions" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
+
 Histogram displaying the distribution of salaries across different roles.
-![4](Images/4.png)
+
 ### 5. Count of Job Titles by Experience Level
+<img src="Images/5.png" alt="Count of Job Titles by Experience Level" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
+
 Stacked bar graph representing the count of job titles across various experience levels.
-![5](Images/5.png)
+
 ### 6. Average Salary by Year
+<img src="Images/6.png" alt="Average Salary by Year" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
+
 Bar graph illustrating the average salary trends by year.
-![6](Images/6.png)
+
 ### 7. Salary Distribution by Geographic Region
+<img src="Images/7.png" alt="Salary Distribution by Geographic Region" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
+
 Kernel density distribution comparing salaries across different regions.
-![7](Images/7.png)
+
 ### 8. Experience Level Salary Distributions
+<img src="Images/8.png" alt="Experience Level Salary Distributions" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
+
 Violin plot showing salary distributions by experience level.
-![8](Images/8.png)
+
 ### 9. Interactive Geographic Distribution of Salaries
+<img src="Images/9.png" alt="Interactive Geographic Distribution of Salaries" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
+
 Box plot displaying the distribution of salaries across top 10 countries.
-![9](Images/9.png)
+
 ### 10. Interactive Salary Distribution by Job Category
+<img src="Images/10.png" alt="Interactive Salary Distribution by Job Category" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
+
 Box plot showing salary distribution across different job categories.
-![10](Images/10.png)
+
 ### 11. Interactive Average Salary by Job Title
+<img src="Images/11.png" alt="Interactive Average Salary by Job Title" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
+
 Bar chart representing average salaries based on job categories.
-![11](Images/11.png)
+
 ## References
 1. Data Science 2023 Review: Trends and Salary Expectations
 2. Data Science & AI Professionals Salary and Hiring Trends
