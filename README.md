@@ -56,7 +56,6 @@ The main actions performed in this project include data acquisition, preprocessi
 ### 1. Salary Distribution by Job Title
 Box plot representing salary distribution for various job titles.
 ![1](Images/1.png)
-
 ### 2. Salary Distribution by Experience Level
 Box plot showing salary distribution across different experience levels.
 ![2](Images/2.png)
@@ -87,7 +86,6 @@ Box plot showing salary distribution across different job categories.
 ### 11. Interactive Average Salary by Job Title
 Bar chart representing average salaries based on job categories.
 ![11](Images/11.png)
-
 ## References
 1. Data Science 2023 Review: Trends and Salary Expectations
 2. Data Science & AI Professionals Salary and Hiring Trends
