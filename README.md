@@ -12,7 +12,6 @@ This project visualizes data science salary trends using the Kaggle dataset. By 
 - [Tools Description](#tools-description)
 - [Visualization Graphs](#visualization-graphs)
 - [References](#references)
-- [Links](#links)
 
 ## Introduction
 
@@ -108,7 +107,6 @@ Box plot showing salary distribution across different job categories.
 
 Bar chart representing average salaries based on job categories.
 
-## References
 ## References
 
 1. [Data Science 2023 Review: Trends and Salary Expectations](https://www.smithhanley.com/2023/12/05/data-science-2023/)
