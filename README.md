@@ -19,6 +19,7 @@ This project visualizes data science salary trends using the Kaggle dataset. By 
 This project aims to analyze and visualize data science salary trends using a dataset from Kaggle. The dataset includes job titles, salaries, years of experience, and geographic data, providing comprehensive insights into the salary trends for data science professionals.
 
 ## Workflow Diagram
+![Workflow Diagram](Images/Workflow.jpg)
 
 The workflow diagram illustrates the steps taken in our project, starting from data acquisition to preprocessing, analysis, visualization, and reporting. The data was obtained from Kaggle, cleaned, and prepared for detailed exploratory data analysis (EDA).
 
@@ -54,37 +55,38 @@ The main actions performed in this project include data acquisition, preprocessi
 
 ### 1. Salary Distribution by Job Title
 Box plot representing salary distribution for various job titles.
+![1](Images/1.png)
 
 ### 2. Salary Distribution by Experience Level
 Box plot showing salary distribution across different experience levels.
-
+![2](Images/2.png)
 ### 3. Salary Trends Over Years
 Line plot demonstrating the upward trend in average salaries over the years.
-
+![3](Images/3.png)
 ### 4. Histogram of Salary Distributions
 Histogram displaying the distribution of salaries across different roles.
-
+![4](Images/4.png)
 ### 5. Count of Job Titles by Experience Level
 Stacked bar graph representing the count of job titles across various experience levels.
-
+![5](Images/5.png)
 ### 6. Average Salary by Year
 Bar graph illustrating the average salary trends by year.
-
+![6](Images/6.png)
 ### 7. Salary Distribution by Geographic Region
 Kernel density distribution comparing salaries across different regions.
-
+![7](Images/7.png)
 ### 8. Experience Level Salary Distributions
 Violin plot showing salary distributions by experience level.
-
+![8](Images/8.png)
 ### 9. Interactive Geographic Distribution of Salaries
 Box plot displaying the distribution of salaries across top 10 countries.
-
+![9](Images/9.png)
 ### 10. Interactive Salary Distribution by Job Category
 Box plot showing salary distribution across different job categories.
-
+![10](Images/10.png)
 ### 11. Interactive Average Salary by Job Title
 Bar chart representing average salaries based on job categories.
-
+![11](Images/11.png)
 
 ## References
 1. Data Science 2023 Review: Trends and Salary Expectations
